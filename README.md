@@ -95,7 +95,8 @@ The following test conditions could be found here [Test conditions](https://gith
  The test cases with steps could be found here: *vom adauga link catre document cu test cases create si incarcate pe github. Test cases vor fi exportate din Jira. 
 
 ## 3.4 Daily/Weekly/Bi-weekly test summary report
- - link to daily test summary report ![Daily Report!](/https://github.com/BogdanScutariu/Proiect-Practic-Testare-Manuala/blob/main/344607775_199127382810712_7413630422295578266_n.jpg")
+ - link to daily test summary report
+  ![Daily Report!](https://github.com/BogdanScutariu/Proiect-Practic-Testare-Manuala/blob/main/344607775_199127382810712_7413630422295578266_n.jpg)
 
 
 
