@@ -80,6 +80,24 @@ Ioana Gornateanu7:11 PM
 -	stress conditions might impact the web application
 -	new browser might not be supported
 
+  # 3. Test deliverables
+
+  ## 3.1 Test plan - link to test plan
+  The Test Plan is designed to describe all the details of testing for the following features: Add funds, Withdraw funds, Send money from Guru99 application
+The plan identifies the items and the features to be tested, the type of testing to be performed, the roles and responsibilities for testing process, the risks associated with the plan, the resources and schedule required to complete testing.
+
+## 3.2 Test conditions 
+ we will use test environment
+ - testing using new accounts and older account is necessary
+The following test conditions could be found here: *vom adauga link catre document cu test conditions create si incarcate pe github. Test conditions vor fi exportate din Jira.
+
+## 3.3  Test cases
+ The test cases with steps could be found here: *vom adauga link catre document cu test cases create si incarcate pe github. Test cases vor fi exportate din Jira. 
+
+## 3.4 Daily/Weekly/Bi-weekly test summary report
+ - link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc) *vom adauga link catre screenshot cu cu test summary report incarcat pe github SAU incarcam imaginea cu raportul direct pe github. Raportul va fi generat din Jira pe masura ce executam test caseurile. 
+
+
 
 
 
