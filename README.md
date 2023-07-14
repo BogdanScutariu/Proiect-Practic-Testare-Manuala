@@ -95,7 +95,7 @@ The following test conditions could be found here [Test conditions](https://gith
  The test cases with steps could be found here: *vom adauga link catre document cu test cases create si incarcate pe github. Test cases vor fi exportate din Jira. 
 
 ## 3.4 Daily/Weekly/Bi-weekly test summary report
- - link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc) *vom adauga link catre screenshot cu cu test summary report incarcat pe github SAU incarcam imaginea cu raportul direct pe github. Raportul va fi generat din Jira pe masura ce executam test caseurile. 
+ - link to daily test summary report ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
 
 
 
