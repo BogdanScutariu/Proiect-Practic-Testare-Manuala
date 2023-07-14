@@ -97,7 +97,7 @@ The following test conditions could be found here [Test conditions](https://gith
 ## 3.4 Daily/Weekly/Bi-weekly test summary report
  - link to daily test summary report
 
-   ![Daily report!](https://github.com/LauraScutariu/Proiect-Practic-Testare-Manuala/edit/main/README.md#:~:text=1D.pdf-,GKPA5118,-.JPG)
+   ![Daily report!](https://github.com/BogdanScutariu/Proiect-Practic-Testare-Manuala/blob/main/344607775_199127382810712_7413630422295578266_n.jpg)
    
 
 
