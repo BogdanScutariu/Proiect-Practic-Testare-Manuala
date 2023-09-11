@@ -10,7 +10,7 @@
      
       1.2 Functionalities in scope
      
-      1.3 Functionalities and tests out of scope
+      1.3 Functionalities and tests out of scop
   2. Test Process
       
       2.1 Test Planning
