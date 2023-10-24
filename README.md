@@ -13,7 +13,7 @@
       1.3 Functionalities and tests out of scope
   2. Test Process
       
-      2.1 Test Planning
+    
      
       2.2 Test Analysis
      
