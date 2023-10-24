@@ -17,7 +17,7 @@
      
       2.2 Test Analysis
      
-      2.3 Test design
+    
      
       2.4 Test implementation
 
